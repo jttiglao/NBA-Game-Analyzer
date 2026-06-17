@@ -15,5 +15,5 @@ A full-stack NBA analytics project.
 ```bash
 cd services/nba-service
 # activate venv
-uvicorn main:app --reload --port 8000
+uvicorn main:app --reload --port 5173
 ```
